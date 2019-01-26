@@ -1,0 +1,187 @@
+# Copyright (c) 2016-present Arctic Ice Studio <development@arcticicestudio.com>
+# Copyright (c) 2016-present Sven Greb <code@svengreb.de>
+
+# Project:    Nord Termite
+# Repository: https://github.com/arcticicestudio/nord-termite
+# License:    MIT
+
+[options]
+ font = Monaco for Powerline 12
+
+[colors]
+ cursor = #d8dee9
+ cursor_foreground = #2e3440
+
+ foreground = #d8dee9
+ foreground_bold = #d8dee9
+ #background = #2e3440
+ background = rgba(46, 52, 64, 0.9)
+
+ highlight = #4c566a
+
+ color0  = #3b4252
+ color1  = #bf616a
+ color2  = #a3be8c
+ color3  = #ebcb8b
+ color4  = #81a1c1
+ color5  = #b48ead
+ color6  = #88c0d0
+ color7  = #e5e9f0
+ color8  = #4c566a
+ color9  = #bf616a
+ color10 = #a3be8c
+ color11 = #ebcb8b
+ color12 = #81a1c1
+ color13 = #b48ead
+ color14 = #8fbcbb
+ color15 = #eceff4
+
+#[colors]
+# Base16 Tomorrow Night
+# Author: Chris Kempson (http://chriskempson.com)
+
+#foreground          = #c5c8c6
+#foreground_bold     = #e0e0e0
+#cursor              = #e0e0e0
+#cursor_foreground   = #1d1f21
+#background          = rgba(29, 31, 33)
+
+# 16 color space
+
+# Black, Gray, Silver, White
+#color0  = #1d1f21
+#color8  = #969896
+#color7  = #c5c8c6
+#color15 = #ffffff
+
+# Red
+#color1  = #cc6666
+#color9  = #cc6666
+
+# Green
+#color2  = #b5bd68
+#color10 = #b5bd68
+
+# Yellow
+#color3  = #f0c674
+#color11 = #f0c674
+
+# Blue
+#color4  = #81a2be
+#color12 = #81a2be
+
+# Purple
+#color5  = #b294bb
+#color13 = #b294bb
+
+# Teal
+#color6  = #8abeb7
+#color14 = #8abeb7
+
+# Extra colors
+#color16 = #de935f
+#color17 = #a3685a
+#color18 = #282a2e
+#color19 = #373b41
+#color20 = #b4b7b4
+#color21 = #e0e0e0
+
+#[colors]
+# Base16 Rebecca
+# Author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+
+#foreground          = #f1eff8
+#foreground_bold     = #ccccff
+#cursor              = #ccccff
+#cursor_foreground   = #292a44
+#background          = rgba(41, 42, 68)
+#
+# 16 color space
+
+# Black, Gray, Silver, White
+#color0  = #292a44
+#color8  = #666699
+#color7  = #f1eff8
+#color15 = #53495d
+
+# Red
+#color1  = #a0a0c5
+#color9  = #a0a0c5
+
+# Green
+#color2  = #6dfedf
+#color10 = #6dfedf
+
+# Yellow
+#color3  = #ae81ff
+#color11 = #ae81ff
+
+# Blue
+#color4  = #2de0a7
+#color12 = #2de0a7
+
+# Purple
+#color5  = #7aa5ff
+#color13 = #7aa5ff
+
+# Teal
+#color6  = #8eaee0
+#color14 = #8eaee0
+
+# Extra colors
+#color16 = #efe4a1
+#color17 = #ff79c6
+#color18 = #663399
+#color19 = #383a62
+#color20 = #a0a0c5
+#color21 = #ccccff
+
+#[colors]
+ #Base16 OceanicNext
+ #Author: https://github.com/voronianski/oceanic-next-color-scheme
+
+#foreground          = #C0C5CE
+#foreground_bold     = #CDD3DE
+#cursor              = #CDD3DE
+#cursor_foreground   = #1B2B34
+#background          = rgba(27, 43, 52)
+
+ #16 color space
+
+ #Black, Gray, Silver, White
+#color0  = #1B2B34
+#color8  = #65737E
+#color7  = #C0C5CE
+#color15 = #D8DEE9
+
+ #Red
+#color1  = #EC5f67
+#color9  = #EC5f67
+
+ #Green
+#color2  = #99C794
+#color10 = #99C794
+
+ #Yellow
+#color3  = #FAC863
+#color11 = #FAC863
+
+ #Blue
+#color4  = #6699CC
+#color12 = #6699CC
+
+ #Purple
+#color5  = #C594C5
+#color13 = #C594C5
+
+ #Teal
+#color6  = #5FB3B3
+#color14 = #5FB3B3
+
+ #Extra colors
+#color16 = #F99157
+#color17 = #AB7967
+#color18 = #343D46
+#color19 = #4F5B66
+#color20 = #A7ADBA
+#color21 = #CDD3DE
